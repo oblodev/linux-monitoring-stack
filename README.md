@@ -49,7 +49,7 @@ All config files are in the `configs/` directory:
 
 ## Screenshot
 
-![Grafana Dashboard](screenshots/grafana-dashboard.png)
+![Grafana Dashboard](grafana-dashboard.png)
 
 ## Author
 
